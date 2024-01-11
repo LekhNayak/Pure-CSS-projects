@@ -1,0 +1,64 @@
+.logo{
+    display: block;
+    width: 300px;
+    margin-top: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+input{
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 24px;
+    border-radius: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: 1px solid #dfe1e5;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}    
+
+
+#button1{
+    display: inline;
+    margin-top: 30px;
+    margin-right: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+    background-color:hsl(220,10.3%,82%);
+    border: none;
+    border-radius: 5px;
+}
+
+#button1:hover{
+    background-color: hsl(220,10.3%,88.6%)
+}
+
+#button2{
+    display: inline;
+    margin-top: 30px;
+    margin-left: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+    background-color: hsl(220,10.3%,82%);
+    border: none;
+    border-radius: 5px;
+}
+
+#button2:hover{
+    background-color: hsl(220,10.3%,88.6%)
+}
