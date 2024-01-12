@@ -1,0 +1,15 @@
+.cursor{
+    cursor: pointer;
+}
+
+.border{
+    border: 2px solid transparent;
+    border-radius: 4px;
+    padding: 2.5px;
+    transition: 0.5s;
+}
+
+.border:hover{
+    border: 2px solid white;
+}
+
